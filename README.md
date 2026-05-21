@@ -19,6 +19,8 @@
 * Сравнительный анализ, статистика и графики.
 
 
-`news values data`: сам корпус в формате .xlsx 
+`news values data`: сам корпус в формате .xlsx.
 
-Ссылка: https://docs.google.com/spreadsheets/d/11x9JbkKsCH9zd6GrbL5hrB9vHDp5vjESBjGQ-zoMXiY/edit?usp=sharing 
+Ссылка: 
+
+https://docs.google.com/spreadsheets/d/11x9JbkKsCH9zd6GrbL5hrB9vHDp5vjESBjGQ-zoMXiY/edit?usp=sharing 
